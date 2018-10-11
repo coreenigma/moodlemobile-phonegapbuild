@@ -9,11 +9,11 @@
     <name>Moodle</name>
 
     <description>
-        Moodle official app
+        MIMK APP
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+       ENigma Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
